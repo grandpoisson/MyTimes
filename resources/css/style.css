@@ -11,6 +11,9 @@ header {
   	font-size: 14px;
   	font-weight: bold;
 }
+header nav {
+	padding-right: 40px;
+}
 
 .logo {
 	display: flex;
